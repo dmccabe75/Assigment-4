@@ -1,2 +1,2 @@
 # Pandas-Exercise
-Using Pyton, Pandas, and Jupyter Notebook
+Using Python, Pandas, and Jupyter Notebook
